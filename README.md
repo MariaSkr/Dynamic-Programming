@@ -1,5 +1,4 @@
-# Dynamic-Programming
-# Numbers in Pi
+## Numbers in Pi
 
 Given a string represntation of the first n digits of PI and a list of positive integers (all in string format), write a function that returns the smallest number of spaces that can be added to the n digits of Pi such that all resulting numbers are found in the list of integers.
 
