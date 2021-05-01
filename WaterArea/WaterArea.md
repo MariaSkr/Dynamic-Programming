@@ -1,2 +1,2 @@
-<img src=https://github.com/MariaSkr/Dynamic-Programming/blob/main/WaterArea/WaterArea.md
+<img src=https://github.com/MariaSkr/Dynamic-Programming/blob/main/WaterArea/WaterArea.png
  />
